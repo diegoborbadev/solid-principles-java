@@ -1,1 +1,1 @@
-# solid-principles-java
+# SOLID principles in Java
